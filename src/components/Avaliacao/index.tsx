@@ -1,6 +1,7 @@
 import Card from "./Card"
 import IProfissional from "../../types/IProfissional"
 import styled from "styled-components"
+import Botao from "../Botao"
 
 const SecaoCard = styled.section`
   display: flex;
